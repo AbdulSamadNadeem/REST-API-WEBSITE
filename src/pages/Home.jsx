@@ -21,7 +21,7 @@ const Home = () => {
       </button>
       </div>
       <div>
-        <img src="./watching-tv.png" alt="" />
+        <img src="/assets/watching-tv.png" alt="" />
       </div>
     </div>
   

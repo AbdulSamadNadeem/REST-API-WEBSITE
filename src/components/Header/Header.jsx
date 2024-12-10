@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className='flex items-center justify-center gap-32 w-[700px] mx-auto mt-6'>
         <div>
-            <img onClick={()=>navigate('/')} src="./watching-tv.png" alt="" className='w-20 h-20 object-contain' />
+            <img onClick={()=>navigate('/')} src="/assets/watching-tv.png" alt="" className='w-20 h-20 object-contain' />
         </div>
         <div>
             <ul className='flex items-center gap-10 cursor-pointer'>

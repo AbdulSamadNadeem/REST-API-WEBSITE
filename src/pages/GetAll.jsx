@@ -11,7 +11,7 @@ const GetAll = () => {
          </div>
        <div className=''>
        <h1 className='text-3xl font-light '>Example Code</h1>
-       <img src="../../public/Snap-2.png" className='w-[500px] h-[500px] object-contain -mt-10' alt="" />
+       <img src="/assets/Snap-2.png" className='w-[500px] h-[500px] object-contain -mt-10' alt="" />
         </div>
        </div>
     </div>

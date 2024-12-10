@@ -11,7 +11,7 @@ const Patch = () => {
          </div>
        <div className=''>
        <h1 className='text-3xl font-light '>Example Code</h1>
-       <img src="../../public/Snap-6.png" className='w-[500px] h-[500px] object-contain ' alt="" />
+       <img src="/assets/Snap-6.png" className='w-[500px] h-[500px] object-contain ' alt="" />
         </div>
        </div>
     </div>
